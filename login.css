@@ -1,0 +1,18 @@
+.login_div1 {
+  margin-top: 40px;
+}
+
+body {
+  background-image: url(images/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  color: blueviolet;
+}
+
+#player1_name_input {
+  border-radius: 5%;
+}
+
+.login{
+  color: blueviolet;
+}
